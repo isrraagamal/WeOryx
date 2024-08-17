@@ -267,6 +267,7 @@ header .navbar-nav .lang-button {
   font-weight: 900;
   font-size: 22px;
   padding-top: 10px;
+  color: #000!important;
 }
 
 #our-team h2 {
@@ -511,4 +512,9 @@ a {
   -o-border-radius: 5px;
   width: 170px;
   height: 45px;
+}
+
+.error {
+  color: red;
+  font-size: 0.875em;
 }
